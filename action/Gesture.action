@@ -2,6 +2,9 @@
 uint8 INIT_POS = 0
 uint8 WAVE_HAND = 1
 uint8 FOLLOW_ME = 2
+uint8 ITS_ME = 3
+uint8 INTRODUCE = 4
+uint8 TALKING = 5
 
 uint8 action
 ---
